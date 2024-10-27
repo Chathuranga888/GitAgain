@@ -1,0 +1,2 @@
+Hello I'm going to learn git again
+text1.txt
